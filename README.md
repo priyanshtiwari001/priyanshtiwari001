@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student in Amity University <br>👯 I’m looking to collaborate on The projects<br>🤝 I’m looking for help with Project<br>🌱 I’m currently learning Node.js <br>💬 Ask me about<br>⚡ Fun fact: You have only feeling that make you human
+🔭 I’m currently a student in Amity University <br>👯 I’m looking to collaborate on The projects<br>🤝 I’m looking for help with Project<br>🌱 I’m currently learning Node.js <br>💬 Ask me about ReactJs<br>⚡ 
 
 
 ## 🌐 Socials:
